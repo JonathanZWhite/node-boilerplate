@@ -1,4 +1,8 @@
 node-boilerplate
 ================
 
-Lightweight boilerplate for applications using Node 
+##Tech Stack 
+
+- Node with the Express framework
+- Dust for templating
+- MongoDB for the database
